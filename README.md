@@ -1,4 +1,4 @@
-# Hotspot-Shield-VPN-GUI
+# Hotspot-Shield-VPN-GUI-for-Linux
 This is a Python3 GUI for the Linux Hotspot Shield VPN application. There is no official GUI. Command line configuration is tedious. This one is easy to use. 
 
 Requirements:
